@@ -4,3 +4,5 @@ Repositorio de prueba para materia de calidad
 echo "este es un ejemplo arely";
 phpInfo();
 ?>
+hola
+alee
